@@ -15,7 +15,7 @@ setup(
     install_requires=[
         'numpy==1.23.5',
         'regex==2021.11.10',
-        'scikit-learn==1.1',
+        'scikit-learn==1.2',
         'tqdm==4.62.3',
         #'tensorflow==2.16.1',
         'tensorflow[and-cuda]==2.16.1',
