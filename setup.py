@@ -26,7 +26,7 @@ setup(
         'lmdb==1.2.1',
         #'transformers==4.33.2', 
         'transformers==4.40.0',
-        'torch==1.11.0',
+        'torch==1.13.0',
         'truecase',
         'requests>=2.20',
         'pandas==1.3.5',
