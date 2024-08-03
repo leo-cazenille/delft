@@ -29,7 +29,7 @@ setup(
         'torch==1.13.0',
         'truecase',
         'requests>=2.20',
-        'pandas==1.3.5',
+        'pandas<2.0',
         'pytest',
         #'tensorflow-addons==0.19.0',
         'tfa-nightly',
